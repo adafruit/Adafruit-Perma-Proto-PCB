@@ -1,10 +1,10 @@
 ## Perma-Proto Prototyping Board PCBs (5 sizes)
 
-<a href="http://www.adafruit.com/products/723"><img src="assets/723.jpg?raw=true" width="400px">&nbsp; 
-<a href="http://www.adafruit.com/products/1214"><img src="assets/1214.jpg?raw=true" width="400px"><br/>
-<a href="http://www.adafruit.com/products/1608"><img src="assets/1608.jpg?raw=true" width="400px">&nbsp; 
-<a href="http://www.adafruit.com/products/1609"><img src="assets/1609.jpg?raw=true" width="400px"> <br/>
-<a href="http://www.adafruit.com/products/1606"><img src="assets/1606.jpg?raw=true" width="400px"> <br/>
+<a href="http://www.adafruit.com/products/723"><img src="assets/723.jpg?raw=true" width="400px"></a>&nbsp; 
+<a href="http://www.adafruit.com/products/1214"><img src="assets/1214.jpg?raw=true" width="400px"></a><br/>
+<a href="http://www.adafruit.com/products/1608"><img src="assets/1608.jpg?raw=true" width="400px"></a>&nbsp; 
+<a href="http://www.adafruit.com/products/1609"><img src="assets/1609.jpg?raw=true" width="400px"></a> <br/>
+<a href="http://www.adafruit.com/products/1606"><img src="assets/1606.jpg?raw=true" width="400px"></a> <br/>
 Click the picture or the link below to purchase from the Adafruit shop
 
 PCB files for the Adafruit Perma Protos. Format is EagleCAD schematic and board layout 
