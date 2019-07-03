@@ -10,11 +10,11 @@ Click the picture or the link below to purchase from the Adafruit shop
 PCB files for the Adafruit Perma Protos. Format is EagleCAD schematic and board layout 
 
 Click to order the boards of your choice
-* Mint Tin Size https://www.adafruit.com/product/723
-* Small Mint Tin Size https://www.adafruit.com/product/1214
-* Quarter-sized https://www.adafruit.com/product/1608
-* Half-sized https://www.adafruit.com/product/1609
-* Full-sized https://www.adafruit.com/product/1606
+* Mint Tin Size: https://www.adafruit.com/product/723
+* Small Mint Tin Size: https://www.adafruit.com/product/1214
+* Quarter-sized: https://www.adafruit.com/product/1608
+* Half-sized: https://www.adafruit.com/product/1609
+* Full-sized: https://www.adafruit.com/product/1606
 
 ### Description
 
